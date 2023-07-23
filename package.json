@@ -1,0 +1,15 @@
+{
+  "name": "express.js-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Sana Braham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
